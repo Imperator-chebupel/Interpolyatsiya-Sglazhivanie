@@ -1,0 +1,11 @@
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\bin\Debug\ВычМат3.exe.config
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\bin\Debug\ВычМат3.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\bin\Debug\ВычМат3.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.csproj.AssemblyReference.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.csproj.SuggestedBindingRedirects.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.Form1.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.Properties.Resources.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.csproj.GenerateResource.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.csproj.CoreCompileInputs.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ВычМат3\obj\Debug\ВычМат3.pdb
